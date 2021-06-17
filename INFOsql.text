@@ -1,0 +1,8 @@
+name: heroku_9cd1372bc1efcb7
+Username:	bd0db8b70b91f6
+Password:	894bc3ab (Reset)
+
+mysql://bd0db8b70b91f6:894bc3ab@us-cdbr-east-04.cleardb.com/heroku_9cd1372bc1efcb7?reconnect=true
+Host: heroku_9cd1372bc1efcb7
+
+Hostname heroku = us-cdbr-east-04.cleardb.com
