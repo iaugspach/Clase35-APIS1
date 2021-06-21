@@ -6,3 +6,6 @@ mysql://bd0db8b70b91f6:894bc3ab@us-cdbr-east-04.cleardb.com/heroku_9cd1372bc1efc
 Host: heroku_9cd1372bc1efcb7
 
 Hostname heroku = us-cdbr-east-04.cleardb.com
+
+
+Crearse una tabla e ir mirando una por una, las que no tienen foreign key. Luego categorizar todas. Ir de a una por vez. Primero plantearse el modelo.
